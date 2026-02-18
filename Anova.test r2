@@ -1,0 +1,8 @@
+#Author:Robinson,Alexis,Date:02/18/2026 Purpose; ANOVA TEst
+
+#Load Library dblyr
+library(dplyr) 
+
+
+#Reading the posions.csc from GitHub repostiory 
+PATH <- "https://raw.githubusercontent.com/guru99-edu/R-Programming/master/poisons.csv
